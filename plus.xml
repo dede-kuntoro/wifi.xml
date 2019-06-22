@@ -1,0 +1,10 @@
+<AppUpdater>
+  <update>
+    <latestVersion>Dede Kuntoro</latestVersion>
+    <latestVersionCode>95</latestVersionCode>
+    <url>www.dedekuntoro.com</url>
+    <releaseNotes>
+www.dedekuntoro.com
+    </relaseNotes>
+  </update>
+</AppUpdater>
